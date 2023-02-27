@@ -1,0 +1,10 @@
+
+x	java:S116"cRename this field "_tipoDocumentoRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍáÄ»
+_
+java:S18541"DRemove this useless assignment to local variable "tipoDocumentoDto".(ïÑ’Ûûÿÿÿÿ
+_
+java:S1854K"DRemove this useless assignment to local variable "tipoDocumentoDto".(ïÑ’Ûûÿÿÿÿ
+m
+java:S3776d"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Âüñ„úÿÿÿÿ
+_
+java:S1854f"DRemove this useless assignment to local variable "tipoDocumentoDto".(ïÑ’Ûûÿÿÿÿ

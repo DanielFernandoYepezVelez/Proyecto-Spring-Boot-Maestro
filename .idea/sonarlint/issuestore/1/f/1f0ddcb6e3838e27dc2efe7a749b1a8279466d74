@@ -1,0 +1,19 @@
+
+<
+java:S1452A"&Remove usage of generic wildcard type.(“ºŠž
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
+j
+java:S1128"ORemove this unused import 'com.testvco.org.co.backendtest.dto.MessageResponse'.(Ô£‰Ìüÿÿÿÿ
+d
+java:S1128"ORemove this unused import 'com.testvco.org.co.backendtest.entidades.acl.ERole'.(¯áÇJ
+i
+java:S1128"NRemove this unused import 'com.testvco.org.co.backendtest.entidades.acl.Role'.(†íÉúÿÿÿÿ
+r
+java:S1128"WRemove this unused import 'com.testvco.org.co.backendtest.entidades.acl.SignupRequest'.(È®‘ðøÿÿÿÿ
+d
+java:S1128"NRemove this unused import 'com.testvco.org.co.backendtest.entidades.acl.User'.(‚·€¯
+e
+java:S1128 "JRemove this unused import 'com.testvco.org.co.backendtest.utils.Constans'.(¨øÎéøÿÿÿÿ
