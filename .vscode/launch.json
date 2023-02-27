@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch BackendtestApplicationTests",
+            "request": "launch",
+            "mainClass": "com.testvco.org.co.backendtest.BackendtestApplicationTests",
+            "projectName": "backendcde"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendtestApplication<backendtest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.testvco.org.co.backendtest.BackendtestApplication",
+            "projectName": "backendtest",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendtestApplication<backendcde>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.testvco.org.co.backendtest.BackendtestApplication",
+            "projectName": "backendcde",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
