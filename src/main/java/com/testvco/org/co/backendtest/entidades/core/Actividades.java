@@ -10,21 +10,21 @@ import javax.persistence.*;
 import java.sql.Timestamp;
 
 /**
- * Clase de la entidad de ListasTiposDocumentos
- * 
- * @Author 2023-02-24.celf
+ * Clase de la entidad de Actividades
+ *
+ * @Author 2023-02-28.dfy
  */
 @Entity
-@Table(name = "listas_tipos_documentos_act", schema = "generico")
+@Table(name = "actividades", schema = "generico")
 @Getter
 @Setter
 @EqualsAndHashCode
-public class ListasTiposDocumentosAct {
+public class Actividades {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id_lista_tipo_documento")
-    private int idListaTipoDocumento;
+    @Column(name = "id_actividad")
+    private int idActividad;
 
     @Basic
     @Column(name = "nombre", length = 100)
@@ -74,7 +74,7 @@ public class ListasTiposDocumentosAct {
         return userEditadoPor != null ? userEditadoPor.getUsername() : null;
     }
 
-    public ListasTiposDocumentosAct() {
+    public Actividades() {
         // TODO document why this constructor is empty
     }
 

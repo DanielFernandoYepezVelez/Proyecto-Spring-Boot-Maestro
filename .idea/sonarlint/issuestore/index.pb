@@ -19,14 +19,6 @@ p
 @src/main/java/com/testvco/org/co/backendtest/utils/Constans.java,4\b\4b5a2273d0d741110426b999895fc2bec00cf5bb
 p
 @src/main/java/com/testvco/org/co/backendtest/utils/Generics.java,f\7\f7d71147f1a1bc69f756b15f546499a9d457d6bb
-x
-Hsrc/main/java/com/testvco/org/co/backendtest/configuracion/JwtUtils.java,e\8\e89cdd5c89392fb7599ef945b21329694b7b023e
-Å
-Qsrc/main/java/com/testvco/org/co/backendtest/configuracion/WebSecurityConfig.java,5\d\5d0c63ca100051ea81bdcf1338388da39965752d
-Ñ
-Tsrc/main/java/com/testvco/org/co/backendtest/configuracion/SwaggerConfiguracion.java,4\b\4bcc0580c98dc87dd0b5faca93d597626dc4bb45
-Å
-Qsrc/main/java/com/testvco/org/co/backendtest/configuracion/AuthEntryPointJwt.java,1\b\1bc9f37a8e89e0e8d2cc02c3c5ee9dd9bc45e7ac
 Ü
 Vsrc/main/java/com/testvco/org/co/backendtest/entidades/core/ListasTiposDocumentos.java,c\b\cbef9677a10279fb9a096619df1ae7b54622f616
 É

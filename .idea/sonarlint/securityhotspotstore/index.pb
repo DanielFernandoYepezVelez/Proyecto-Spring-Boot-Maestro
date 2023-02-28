@@ -11,8 +11,6 @@ Dsrc/main/java/com/testvco/org/co/backendtest/entidades/acl/User.java,f\3\f3c6e
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 
 Osrc/main/java/com/testvco/org/co/backendtest/excepciones/ControllerAdvisor.java,a\6\a603c99c745e6ac21cd50e9b69456598d1aff1c4
-Å
-Qsrc/main/java/com/testvco/org/co/backendtest/configuracion/AuthEntryPointJwt.java,1\b\1bc9f37a8e89e0e8d2cc02c3c5ee9dd9bc45e7ac
 Ä
 Psrc/main/java/com/testvco/org/co/backendtest/controllers/acl/AuthController.java,1\f\1f0ddcb6e3838e27dc2efe7a749b1a8279466d74
 í
@@ -21,12 +19,6 @@ p
 @src/main/java/com/testvco/org/co/backendtest/utils/Constans.java,4\b\4b5a2273d0d741110426b999895fc2bec00cf5bb
 p
 @src/main/java/com/testvco/org/co/backendtest/utils/Generics.java,f\7\f7d71147f1a1bc69f756b15f546499a9d457d6bb
-x
-Hsrc/main/java/com/testvco/org/co/backendtest/configuracion/JwtUtils.java,e\8\e89cdd5c89392fb7599ef945b21329694b7b023e
-Ñ
-Tsrc/main/java/com/testvco/org/co/backendtest/configuracion/SwaggerConfiguracion.java,4\b\4bcc0580c98dc87dd0b5faca93d597626dc4bb45
-Å
-Qsrc/main/java/com/testvco/org/co/backendtest/configuracion/WebSecurityConfig.java,5\d\5d0c63ca100051ea81bdcf1338388da39965752d
 Ü
 Vsrc/main/java/com/testvco/org/co/backendtest/entidades/core/ListasTiposDocumentos.java,c\b\cbef9677a10279fb9a096619df1ae7b54622f616
 É
