@@ -1,0 +1,10 @@
+
+{	java:S116"_Rename this field "_actividadRepository" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‘•8ë¤ËÅé0
+b
+java:S18541"@Remove this useless assignment to local variable "actividadDto".(òÌøÿÿÿÿ8ô¤ËÅé0
+b
+java:S1854K"@Remove this useless assignment to local variable "actividadDto".(òÌøÿÿÿÿ8÷¤ËÅé0
+o
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(À¼¨¯8ü¤ËÅé0
+b
+java:S1854d"@Remove this useless assignment to local variable "actividadDto".(òÌøÿÿÿÿ8ı¤ËÅé0
